@@ -37,10 +37,10 @@ Mon objectif professionnel est de me spécialiser dans l'architecture et l'admin
 ### 🌐 Retrouvez-moi ailleurs
 
 <div align="center">
-  <a href="https://linkedin.com/in/TON-PROFIL" target="_blank">
+  <a href="https://linkedin.com/in/alexis-sgl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="LIEN_VERS_TON_SITE_INTERNET" target="_blank">
+  <a href="https://alexis-sgl.fr/" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Site_Internet-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site Web" />
   </a>
   <a href="mailto:contact@alexis-sgl.fr">
