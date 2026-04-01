@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salut, je suis Alexis SIEGEI 👋</h1>
+  <h1>Salut, je suis Alexis SIEGEL 👋</h1>
   <p><b>Étudiant Ingénieur en Informatique</b></p>
 </div>
 
