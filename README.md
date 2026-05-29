@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://alexis-sgl.fr/assets/img/avatar.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #a855f7; box-shadow: 0 0 30px rgba(168, 85, 247, 0.3);" alt="Alexis SIEGEL Avatar" />
-
+<img src="logo-header.png"
+      width="500"
+     alt="Alexis SIEGEL Avatar" />
   <h1>Salut, je suis <span style="color: #a855f7;">Alexis SIEGEL</span> 👋</h1>
 
   <p><b>Étudiant Ingénieur en Informatique</b> — <em>Infrastructure & Cybersécurité</em></p>
@@ -26,15 +27,6 @@ Mon objectif professionnel est de me spécialiser dans l'**architecture et l'adm
 - 🎓 **Ce que vous trouverez ici :** Mes projets scolaires, des simulations réseaux (Cisco), des applications web (Front/Back), ainsi que de la programmation orientée objet et des systèmes embarqués.
 - 📫 **Me contacter :** N'hésitez pas à m'écrire à **contact@alexis-sgl.fr**, ou à passer par mes liens professionnels ci-dessus.
 
----
-
-## 🐍 Mon Activité GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=a855f7&color_dots=#161b22,#30363d,#8957e5,#a371f7,#d2a8ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
@@ -94,3 +86,11 @@ Mon objectif professionnel est de me spécialiser dans l'**architecture et l'adm
   <p>🚀 <strong>À la recherche d'une alternance</strong> — Ingénieur Infrastructure & Cybersécurité — Contrat de 3 ans à partir d'octobre 2026</p>
   <p>📍 Secteur <strong>Strasbourg & Haguenau</strong> (Bas-Rhin)</p>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=a855f7&color_dots=#161b22,#30363d,#8957e5,#a371f7,#d2a8ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Alexis-SGL/Alexis-SGL/output/github-contribution-grid-snake.svg" />
+</picture>
