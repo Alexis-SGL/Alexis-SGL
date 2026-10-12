@@ -4,7 +4,7 @@
      alt="Alexis SIEGEL Avatar" />
   <h1>Salut, je suis <span style="color: #a855f7;">Alexis SIEGEL</span> 👋</h1>
 
-  <p><b>Étudiant Ingénieur en Informatique</b> — <em>Infrastructure & Cybersécurité</em></p>
+  <p><b>Apprenti Ingénieur MES & Informatique Industrielle</b>  <em></em></p>
 
   <p>
     <a href="https://linkedin.com/in/alexis-sgl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
