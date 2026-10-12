@@ -20,10 +20,6 @@
 > *"Passionné par la construction d'environnements informatiques fiables, évolutifs et sécurisés."*
 
 Actuellement étudiant ingénieur à **CESI École d'Ingénieurs** (Strasbourg), ce GitHub me sert de portfolio pour exposer les différents projets sur lesquels j'ai eu l'opportunité de travailler, principalement dans le cadre de ma formation.
-
-Mon objectif professionnel est de me spécialiser dans l'**architecture et l'administration des réseaux**. Cependant, ma formation m'a permis d'acquérir une forte polyvalence, du développement logiciel bas niveau à la création d'applications web complètes.
-
-- 🎯 **Mon ambition :** Construire, sécuriser et optimiser des infrastructures réseaux.
 - 🎓 **Ce que vous trouverez ici :** Mes projets scolaires, des simulations réseaux (Cisco), des applications web (Front/Back), ainsi que de la programmation orientée objet et des systèmes embarqués.
 - 📫 **Me contacter :** N'hésitez pas à m'écrire à **contact@alexis-sgl.fr**, ou à passer par mes liens professionnels ci-dessus.
 
